@@ -3,7 +3,7 @@
 ## QA Engineer
 
 ## My CV
-[Link to my CV]()
+[Link to my CV](ttps://disk.yandex.ru/i/EAa1g3Z1O3PYZA)
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -35,4 +35,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]()
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrGarnov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dchistikov&layout=compact)]()
