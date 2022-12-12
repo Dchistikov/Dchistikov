@@ -34,8 +34,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]()
  
 
-<<<<<<< HEAD
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dchistikov)](https://github.com/anuraghazra/github-readme-stats). 
-=======
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dchistikov)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> 0254d01d4cb8be94171b26efc6e6abcd712811e3
