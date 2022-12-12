@@ -35,4 +35,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]()
  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dchistikov)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dchistikov)](https://github.com/anuraghazra/github-readme-stats). 
