@@ -1,7 +1,6 @@
+В процессе создания. 
 
-
-## QA Engineer   
-
+## QA Engineer 
 ## My CV
 [Link to my CV](https://disk.yandex.ru/i/EAa1g3Z1O3PYZA)
 
