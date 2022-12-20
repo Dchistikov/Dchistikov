@@ -1,7 +1,7 @@
 ## QA Engineer 
 
 ## My CV
-[Link to my CV](https://disk.yandex.ru/i/EAa1g3Z1O3PYZA)
+[Link to my CV](https://disk.yandex.ru/i/4h0XJA4FwTUbEw)
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
