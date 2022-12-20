@@ -21,7 +21,7 @@
 - [End to End Tests Test Cases]()
 - [Regression Test Checklist]()
 - [Bug report]()
-- [SQL Queries]()
+- [SQL Queries](https://github.com/Dchistikov/SQL)
 
 
 ### Socials:
