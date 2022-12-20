@@ -13,7 +13,6 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=8cc4d7)
 -
 
 
