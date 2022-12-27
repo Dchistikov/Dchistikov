@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Dchistikov" target="_blank">Danil</a> </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Enginner;QA+Engineer;QA+Engineer;QA+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=500&weight=600&size=30&pause=1000&color=4331F4&background=FF444400&width=438&lines=QA+Engineer" alt="Typing SVG" /></a>
 </p>
 
 ## My CV
