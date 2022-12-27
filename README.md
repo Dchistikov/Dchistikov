@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Dchistikov" target="_blank">Danil</a> </h1>
 <h3 align="center">QA Engineer</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ## My CV
 [Link to my CV](https://disk.yandex.ru/i/4h0XJA4FwTUbEw)
