@@ -34,3 +34,4 @@
  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dchistikov)](https://github.com/anuraghazra/github-readme-stats) 
+![Jokes Card](https://readme-jokes.vercel.app/api)
