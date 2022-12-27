@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Dchistikov" target="_blank">Danil</a> </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Enginner;You+want+to+offer+me+a+ job?;QA+Engineer;You+want+to+offer+me+a+ job?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Enginner;Do+you+want+to+offer+me+a+job?;QA+Engineer;Do+you+want+to+offer+me+a+ job?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 ## My CV
