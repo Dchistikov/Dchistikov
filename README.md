@@ -1,4 +1,6 @@
-## QA Engineer 
+<h1 align="center">Hi there, I'm <a href="https://t.me/Dchistikov" target="_blank">Danil</a> </h1>
+<h3 align="center">QA Engineer</h3>
+
 
 ## My CV
 [Link to my CV](https://disk.yandex.ru/i/4h0XJA4FwTUbEw)
@@ -17,10 +19,10 @@
 
 
 ## Testing Documentation
-- [Smoke Tests Checklist]()
-- [End to End Tests Test Cases]()
-- [Regression Test Checklist]()
-- [Bug report]()
+- [Smoke Tests Checklist](https://github.com/Dchistikov/CheckLists)
+- [End to End Tests Test Cases](https://github.com/Dchistikov/CheckLists)
+- [Regression Test Checklist](https://github.com/Dchistikov/CheckLists)
+- [Bug report](https://github.com/Dchistikov/Bag-Reports)
 - [SQL Queries](https://github.com/Dchistikov/SQL)
 
 
