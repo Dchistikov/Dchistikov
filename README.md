@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Dchistikov" target="_blank">Danil</a> </h1>
-<h3 align="center">QA ENGINEER</h3>
+<h3 align="center">QA Engineer</h3>
 
 
 ## My CV
