@@ -26,6 +26,9 @@
 - [Bug report](https://github.com/Dchistikov/Bag-Reports)
 - [SQL Queries](https://github.com/Dchistikov/SQL)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="100"/>
+</div>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Dchistikov)
