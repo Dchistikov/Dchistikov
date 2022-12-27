@@ -27,7 +27,7 @@
 - [SQL Queries](https://github.com/Dchistikov/SQL)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 ### Socials:
