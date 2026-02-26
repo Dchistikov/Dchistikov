@@ -4,7 +4,7 @@
 </p>
 
 ## My CV
-[Link to my CV](https://disk.yandex.ru/i/igapW-E4cn93TA)
+[Link to my CV](https://disk.yandex.ru/i/i-6C2yFKakJV0g)
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
